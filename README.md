@@ -12,9 +12,9 @@ I'm passionate about coding, learning new technologies, and working on interesti
 ---
 
 ### How to reach me
-![GitHub](https://img.shields.io/badge/GitHub-Kitler174-black?logo=github)
-![Gmail](https://img.shields.io/badge/Gmail-mateuszblaszczyk36@gmail.com-D14836?logo=gmail&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-Arhax-orange?logo=leetcode)
+- ![GitHub](https://img.shields.io/badge/GitHub-Kitler174-black?logo=github)
+- ![Gmail](https://img.shields.io/badge/Gmail-mateuszblaszczyk36@gmail.com-D14836?logo=gmail&logoColor=white)
+- ![LeetCode](https://img.shields.io/badge/LeetCode-Arhax-orange?logo=leetcode)
 
 Discord: _.kitler._.
 
