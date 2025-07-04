@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&width=100%&section=header&text=Hi%20there,%20I'm%20Kitler!&fontSize=40) 
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&width=100%&section=header&text=Hi%20there,%20I'm%20Kitler!&fontSize=60) 
 <img src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" height="150" style="display:inline-block; margin-right:10px;" />
 
 ---
