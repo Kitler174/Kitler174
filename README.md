@@ -5,7 +5,7 @@
 ### About me
 I'm passionate about coding, learning new technologies, and working on interesting projects. I enjoy solving problems and constantly improving my skills.
 
-<img src="https://media.tenor.com/ZMv97DV4HakAAAAi/fgd.gif" height="150" style="display:block; margin: 10px 0;" />
+<img src="https://media.tenor.com/zBdboxlH4JcAAAAi/maxwell-cat.gif" height="150" style="display:block; margin: 10px 0;" />
 
 ---
 
