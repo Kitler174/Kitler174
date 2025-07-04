@@ -2,16 +2,17 @@
 
 ### About me
 I'm passionate about coding, learning new technologies, and working on interesting projects. I enjoy solving problems and constantly improving my skills.
+![Coding](https://media.tenor.com/ZMv97DV4HakAAAAi/fgd.gif)
+
 ---
 
-![Coding](https://media.tenor.com/ZMv97DV4HakAAAAi/fgd.gif)
 
 ### Looking to collaborate on
 - Open source projects
 - Innovative ideas that help people
+<img src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" width="80" style="display:inline-block; margin-right:5px;" />
 
 ---
-<img src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" width="80" style="display:inline-block; margin-right:5px;" />
 
 ### How to reach me
 - [![GitHub](https://img.shields.io/badge/GitHub-Kitler174-black?logo=github)](https://github.com/Kitler174)
