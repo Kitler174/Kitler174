@@ -2,6 +2,7 @@
 
 ### About me
 I'm passionate about coding, learning new technologies, and working on interesting projects. I enjoy solving problems and constantly improving my skills.
+---
 
 ![Coding](https://media.tenor.com/ZMv97DV4HakAAAAi/fgd.gif)
 
@@ -10,6 +11,8 @@ I'm passionate about coding, learning new technologies, and working on interesti
 - Innovative ideas that help people
 
 ---
+
+![Coding](https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif)
 
 ### How to reach me
 - [![GitHub](https://img.shields.io/badge/GitHub-Kitler174-black?logo=github)](https://github.com/Kitler174)
