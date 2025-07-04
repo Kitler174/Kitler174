@@ -12,7 +12,18 @@ I'm passionate about coding, learning new technologies, and working on interesti
 
 ---
 
-<div style="width:100px; height:100px; background-image:url('https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif'); background-size:cover;"></div>
+<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
+<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
+<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
+<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
+<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
+<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
+<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
+<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
+<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
+<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
+<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
+<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
 
 ### How to reach me
 - [![GitHub](https://img.shields.io/badge/GitHub-Kitler174-black?logo=github)](https://github.com/Kitler174)
