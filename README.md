@@ -3,7 +3,7 @@
 ### About me
 I'm passionate about coding, learning new technologies, and working on interesting projects. I enjoy solving problems and constantly improving my skills.
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.tenor.com/ZMv97DV4HakAAAAi/fgd.gif))
 
 ### Looking to collaborate on
 - Open source projects
