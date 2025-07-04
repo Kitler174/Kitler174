@@ -24,4 +24,4 @@ I'm passionate about coding, learning new technologies, and working on interesti
 
 ---
 
-<img src="https://media.tenor.com/E3MLgDP1qoQAAAAj/nyan-cat-transparent.gif" style="width:100%; max-width:700px; height:auto;" />
+<img src="https://media.tenor.com/E3MLgDP1qoQAAAAj/nyan-cat-transparent.gif" width="100%" />
