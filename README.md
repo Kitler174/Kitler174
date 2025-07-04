@@ -2,6 +2,7 @@
 
 ### About me
 I'm passionate about coding, learning new technologies, and working on interesting projects. I enjoy solving problems and constantly improving my skills.
+
 ![Coding](https://media.tenor.com/ZMv97DV4HakAAAAi/fgd.gif)
 
 ---
