@@ -22,7 +22,7 @@ I'm passionate about coding, learning new technologies, and working on interesti
 - [![Gmail](https://img.shields.io/badge/Gmail-mateuszblaszczyk36@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mateuszblaszczyk36@gmail.com)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Arhax-orange?logo=leetcode)](https://leetcode.com/u/Arhax/)
  
-<img src="https://media1.tenor.com/m/TL3jDy5vpHUAAAAC/burrito.gif" height="150" style="display:block; margin: 10px 0;" />
+<img src="https://media.tenor.com/1z8d5hgchwkAAAAj/max-cat-spinning.gif" height="150" style="display:block; margin: 10px 0;" />
 
 ---
 
