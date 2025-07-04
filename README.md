@@ -11,20 +11,7 @@ I'm passionate about coding, learning new technologies, and working on interesti
 - Innovative ideas that help people
 
 ---
-<div style="display: flex; justify-content: flex-start; gap: 10px;">
-<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
-<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
-<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
-<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
-<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
-<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
-<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
-<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
-<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
-<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
-<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
-<img src="https://media.tenor.com/ww-9jxPSFBsAAAAi/super-bongo.gif" width="80" style="display:inline-block; margin-right:5px;" />
-</div>
+<img src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" width="80" style="display:inline-block; margin-right:5px;" />
 
 ### How to reach me
 - [![GitHub](https://img.shields.io/badge/GitHub-Kitler174-black?logo=github)](https://github.com/Kitler174)
