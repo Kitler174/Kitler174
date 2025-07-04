@@ -11,6 +11,7 @@ I'm passionate about coding, learning new technologies, and working on interesti
 ### Looking to collaborate on
 - Open source projects
 - Innovative ideas that help people
+  
 <img src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" width="80" style="display:inline-block; margin-right:5px;" />
 
 ---
@@ -19,6 +20,8 @@ I'm passionate about coding, learning new technologies, and working on interesti
 - [![GitHub](https://img.shields.io/badge/GitHub-Kitler174-black?logo=github)](https://github.com/Kitler174)
 - [![Gmail](https://img.shields.io/badge/Gmail-mateuszblaszczyk36@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mateuszblaszczyk36@gmail.com)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Arhax-orange?logo=leetcode)](https://leetcode.com/u/Arhax/)
+ 
+![Coding](https://media1.tenor.com/m/TL3jDy5vpHUAAAAC/burrito.gif)
 
 ---
 
