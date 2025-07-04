@@ -16,9 +16,6 @@ I'm passionate about coding, learning new technologies, and working on interesti
 - [![Gmail](https://img.shields.io/badge/Gmail-mateuszblaszczyk36@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mateuszblaszczyk36@gmail.com)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Arhax-orange?logo=leetcode)](https://leetcode.com/u/Arhax/)
 
-
-Discord: _.kitler._.
-
 ---
 
 <img src="https://media.tenor.com/E3MLgDP1qoQAAAAj/nyan-cat-transparent.gif" width="100%" />
