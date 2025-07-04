@@ -12,6 +12,7 @@ I'm passionate about coding, learning new technologies, and working on interesti
 - Open source projects
 - Innovative ideas that help people
   
+<img src="https://media.tenor.com/sXmsX6nJbEoAAAAi/cat-kenneduck.gif" height="150" style="display:inline-block; margin-right:10px;" />
 
 ---
 
