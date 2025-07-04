@@ -21,4 +21,4 @@ Discord: _.kitler._.
 
 ---
 
-![Nyan cat](https://media.tenor.com/E3MLgDP1qoQAAAAj/nyan-cat-transparent.gif)
+<img src="https://media.tenor.com/E3MLgDP1qoQAAAAj/nyan-cat-transparent.gif" width="100%" />
