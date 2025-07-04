@@ -9,6 +9,15 @@ I'm passionate about coding, learning new technologies, and working on interesti
 
 ---
 
+### Technologies & Tools
+**Languages:** Python, JavaScript, C++, C, ASM, C#  
+**Version Control & DevOps:** Git, Docker, Linux  
+**Databases:** SQL, MariaDB
+
+<img src="https://media.tenor.com/AbOuP7zxd5QAAAAi/1000-yard-stare-cat.gif" height="150" style="display:block; margin: 10px 0;" />
+
+---
+
 ### Looking to collaborate on
 - Open source projects
 - Innovative ideas that help people
